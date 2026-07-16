@@ -4,5 +4,5 @@
 /**
  * 
  */
-module com.TNSIF.acc.JavaTraining {
+module org.tnsif.acc.java.training {
 }
